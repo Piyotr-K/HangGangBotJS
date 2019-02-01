@@ -1,0 +1,70 @@
+{
+    "tracks": [
+        {
+            "trackid": 0,
+            "keyword": "laugh",
+            "path": "./audio/laugh_track_2.mp3",
+            "vol": 0.75
+        },
+        {
+            "trackid": 1,
+            "keyword": "yeaboi",
+            "path": "./audio/ainsley_yeah_boy.mp3",
+            "vol": 2
+        },
+        {
+            "trackid": 2,
+            "keyword": "gotem",
+            "path": "./audio/we_gotem.mp3",
+            "vol": 0.75
+        },
+        {
+            "trackid": 3,
+            "keyword": "burn",
+            "path": "./audio/rap_burn.mp3",
+            "vol": 0.75
+        },
+        {
+            "trackid": 4,
+            "keyword": "bruh",
+            "path": "./audio/breh.mp3",
+            "vol": 2
+        },
+        {
+            "trackid": 5,
+            "keyword": "drown",
+            "path": "./audio/drowned.mp3",
+            "vol": 0.15
+        },
+        {
+            "trackid": 6,
+            "keyword": "noice",
+            "path": "./audio/noice.mp3",
+            "vol": 0.5
+        },
+        {
+            "trackid": 7,
+            "keyword": "vsauce",
+            "path": "./audio/vsauce.mp3",
+            "vol": 0.5
+        },
+        {
+            "trackid": 8,
+            "keyword": "smiff",
+            "path": "./audio/hot.mp3",
+            "vol": 0.5
+        },
+        {
+            "trackid": 9,
+            "keyword": "beam",
+            "path": "./audio/civilRights.mp3",
+            "vol": 0.15
+        },
+        {
+            "trackid": 10,
+            "keyword": "cRave",
+            "path": "./audio/crab_rave.mp3",
+            "vol": 0.1
+        }
+    ]
+}
